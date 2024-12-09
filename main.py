@@ -9,6 +9,5 @@ print (f'USD: {data['Valute']['USD']['Value']}') # Получение Долла
 print (f'EUR: {data['Valute']['EUR']['Value']}') # Получение Евро ['EUR']
 
 '''
-by IVAN ERMOLAEV 
-aka ERMCH1KK
+by ermch1kk
 '''
