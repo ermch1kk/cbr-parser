@@ -1,5 +1,5 @@
 # cbr-parser
-the easiest cbr parser (RU LANG)
+the easiest cbr parser (RU/ENG LANG)
 
 -ENG LANG--
 The simplest parser in 5 lines of code
